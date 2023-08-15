@@ -1,1 +1,1 @@
-the this older contains the functions and nested  loops
+s folder contains exercises focused on building skills in using nested loops and functions
